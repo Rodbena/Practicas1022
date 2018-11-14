@@ -1,0 +1,117 @@
+commit 686f0e901478c3967aae32ab297cb599d87645e8
+Merge: 69af8b1 a12d860
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Nov 7 11:30:10 2018 -0600
+
+    Resolví los conflictos
+
+commit 69af8b17d4abb5bdbc3775d8b6b9150f5f4927c3
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Nov 7 11:25:10 2018 -0600
+
+    Actualización local
+
+commit a12d860ed98ea54863bcc961638c1b9f46390b8b
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Nov 7 12:24:52 2018 -0500
+
+    Update tarea10.txt
+    
+    Modificacion remota de tarea 10
+
+commit 7ca783231ef50846e48d3489b97814dc368434d6
+Merge: 0da8647 b396be8
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Nov 7 11:13:21 2018 -0600
+
+    Merge branch 'master' of https://github.com/Rodbena/Practicas1022
+    
+    Este merge es para combinar tarea10 local con tarea11 remota
+
+commit b396be8b970e7944a34c0489a81a16d85fa8fa67
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Nov 7 12:12:51 2018 -0500
+
+    Create Tarea11.txt
+    
+    Subí mi tarea en el repositorio remoto
+
+commit 0da86475801e6f955e3010ffef71d4c4dc8e9272
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Nov 7 11:10:16 2018 -0600
+
+    Tarea local
+
+commit e8066a3531b9d0f29ef8976a46e66a212466290c
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Oct 24 11:40:26 2018 -0500
+
+    dsa
+
+commit 85140324b7c010693f7f469833bc26fb046666db
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Oct 24 11:37:04 2018 -0500
+
+    exp
+
+commit 020b5ee29fc8c47e674360154f8ffd0573e9738d
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Oct 24 12:35:28 2018 -0400
+
+    Add files via upload
+    
+    HOLA
+
+commit e646b4b82e519e68695895528794fa86a303fb1c
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Oct 24 11:33:23 2018 -0500
+
+    exportar llaves
+
+commit 0b1c2340ad4a637e47c8e5f0c0d2e967940c7c3d
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Oct 24 11:30:47 2018 -0500
+
+    exportar llaves
+
+commit 932cd3404e20af9b29975da1813f58bf63fdb1b9
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Oct 24 12:17:05 2018 -0400
+
+    Add files via upload
+    
+    Microsoft
+
+commit cc10fa025da508e6ad561f9d9f82c772626c51fd
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Oct 24 12:14:45 2018 -0400
+
+    Add files via upload
+    
+    Llave pública del Profe
+
+commit 3608ffdf14c806c4c533d5cec98dd5d6da1b850f
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Oct 24 12:12:16 2018 -0400
+
+    Add files via upload
+    
+    Tarea Plática Drink IQ
+
+commit e05d725a962b5509d3d5e0266c03b422eebc3d10
+Author: Rodbena <42215241+Rodbena@users.noreply.github.com>
+Date:   Wed Oct 24 11:52:19 2018 -0400
+
+    Delete myPirvateKey.gpg
+
+commit 84492c3df85174a51c0d21127e4caa5a7c409568
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Oct 24 10:43:02 2018 -0500
+
+    exportar llaves públicas y privadas
+
+commit 7292c6fc2cf8e9ba62065d08f85188c0a6f77cca
+Author: Rodbena <a01026973@itesm.mx>
+Date:   Wed Oct 17 11:28:26 2018 -0500
+
+    First commit
